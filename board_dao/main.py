@@ -1,6 +1,6 @@
 from board_dao import *
 
-board_dao = BoardDAO()
+board_dao = board_dao()
 
 while True:
 
